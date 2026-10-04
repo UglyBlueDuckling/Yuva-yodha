@@ -1,0 +1,6 @@
+{
+  "name": "Triage — Hospital Energy Management Kit",
+  "description": "Interactive simulation of a clinical-criticality retrofit energy management kit for 50-bed Indian hospitals and nursing homes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
